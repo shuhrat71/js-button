@@ -1,0 +1,14 @@
+.container {
+  width: 100px;
+  display: flex;
+  justify-content: center;
+  gap: 20px;
+  align-items: center;
+  height: 100vh;
+}
+button {
+  padding: 10px 20px;
+  background-color: blueviolet;
+  border-radius: ;
+  outline: none;
+}
